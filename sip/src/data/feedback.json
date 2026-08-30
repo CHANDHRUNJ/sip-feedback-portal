@@ -1,0 +1,712 @@
+[
+    {
+        "user": "Dharshini R",
+        "email": "dharshinir@student.tce.edu",
+        "reg": "917723IT035",
+        "dept": "IT",
+        "session": {
+            "time": "9:00-10:00",
+            "topic": "College Tour"
+        },
+        "answers": [
+            "good",
+            "yes",
+            "more clarity in speech"
+        ]
+    },
+    {
+        "user": "dr",
+        "email": "dharshinir2005@gmail.com",
+        "reg": "917723IT000",
+        "dept": "ECE",
+        "session": {
+            "time": "12:00-1:00",
+            "topic": "Clubs & Events"
+        },
+        "answers": [
+            "bad",
+            "no",
+            "ntg"
+        ]
+    },
+    {
+        "user": "Dharshini R",
+        "email": "dharshinir@student.tce.edu",
+        "reg": "917723IT035",
+        "dept": "IT",
+        "session": {
+            "topic": "",
+            "time": ""
+        },
+        "answers": [
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "user": "Dharshini R",
+        "email": "dharshinir@student.tce.edu",
+        "reg": "917723IT035",
+        "dept": "IT",
+        "session": {
+            "topic": "",
+            "time": ""
+        },
+        "answers": [
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "user": "Dharshini R",
+        "email": "dharshinir@student.tce.edu",
+        "reg": "917723IT035",
+        "dept": "IT",
+        "session": {
+            "topic": "",
+            "time": ""
+        },
+        "answers": [
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "user": "Dharshini R",
+        "email": "dharshinir@student.tce.edu",
+        "reg": "917723IT035",
+        "dept": "IT",
+        "session": {
+            "time": "9:00-10:00",
+            "topic": "College Tour"
+        },
+        "answers": [
+            "ok",
+            "no",
+            "improvement needed"
+        ]
+    },
+    {
+        "user": "Dharshini R",
+        "email": "dharshinir@student.tce.edu",
+        "reg": "917723IT035",
+        "dept": "IT",
+        "session": {
+            "time": "10:30-11:30",
+            "topic": "Department Overview"
+        },
+        "answers": [
+            "good",
+            "yes",
+            "ntg"
+        ]
+    },
+    {
+        "user": "Dharshini R",
+        "email": "dharshinir@student.tce.edu",
+        "reg": "917723IT035",
+        "dept": "IT",
+        "session": {
+            "time": "12:00-1:00",
+            "topic": "Clubs & Events"
+        },
+        "answers": [
+            "good",
+            "yes",
+            "ntg"
+        ]
+    },
+    {
+        "user": "Dharshini R",
+        "email": "dharshinir@student.tce.edu",
+        "reg": "917723IT035",
+        "dept": "IT",
+        "session": {
+            "topic": "",
+            "time": ""
+        },
+        "answers": [
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "user": "Dharshini R",
+        "email": "dharshinir@student.tce.edu",
+        "reg": "917723IT035",
+        "dept": "IT",
+        "session": {
+            "time": "12:00-1:00",
+            "topic": "Clubs & Events"
+        },
+        "answers": [
+            "good",
+            "yes",
+            "no"
+        ]
+    },
+    {
+        "user": "Dharshini R",
+        "email": "dharshinir@student.tce.edu",
+        "reg": "917723IT035",
+        "dept": "CSE",
+        "session": {
+            "topic": "",
+            "time": ""
+        },
+        "answers": [
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "user": "Dharshini R",
+        "email": "dharshinir@student.tce.edu",
+        "reg": "917723IT035",
+        "dept": "IT",
+        "day": "Day 1",
+        "session": {
+            "time": "11:00-12:00",
+            "topic": "Lab Tour"
+        },
+        "answers": [
+            "ok",
+            "no",
+            "improvement needed"
+        ]
+    },
+    {
+        "user": "Dharshini R",
+        "email": "dharshinir@student.tce.edu",
+        "reg": "917723IT035",
+        "dept": "IT",
+        "day": "Day 1",
+        "session": {
+            "time": "10:00-11:00",
+            "topic": "Introduction to Faculty"
+        },
+        "answers": [
+            "good",
+            "yes",
+            "no"
+        ]
+    },
+    {
+        "user": "Dharshini R",
+        "email": "dharshinir@student.tce.edu",
+        "reg": "917723IT035",
+        "dept": "CSE",
+        "day": "Day 1",
+        "session": {
+            "time": "10:00-11:00",
+            "topic": "Introduction to Faculty"
+        },
+        "answers": [
+            "good",
+            "no",
+            "nothing"
+        ]
+    },
+    {
+        "user": "Dharshini R",
+        "email": "dharshinir@student.tce.edu",
+        "reg": "917723IT035",
+        "dept": "IT",
+        "day": "Day 1",
+        "session": {
+            "time": "9:00-10:00",
+            "topic": "Department Vision and Mission"
+        },
+        "answers": [
+            "good",
+            "yes",
+            "no"
+        ]
+    },
+    {
+        "user": "Dharshini R",
+        "email": "dharshinir@student.tce.edu",
+        "reg": "917723IT035",
+        "dept": "IT",
+        "day": "Day 1",
+        "session": {
+            "time": "9:00-10:00",
+            "topic": "Department Vision and Mission"
+        },
+        "answers": [
+            "good",
+            "yes",
+            "no"
+        ]
+    },
+    {
+        "user": "Dharshini R",
+        "email": "dharshinir@student.tce.edu",
+        "reg": "917723IT035",
+        "dept": "IT",
+        "day": "Day 1",
+        "session": {
+            "time": "10:00-11:00",
+            "topic": "Introduction to Faculty"
+        },
+        "answers": [
+            "helpful",
+            "yes",
+            "nothing"
+        ]
+    },
+    {
+        "user": "Dharshini R",
+        "email": "dharshinir@student.tce.edu",
+        "reg": "917723IT035",
+        "dept": "IT",
+        "day": "Day 1",
+        "session": {
+            "time": "11:00-12:00",
+            "topic": "Lab Tour"
+        },
+        "answers": [
+            "ok",
+            "no",
+            "lacked clarity"
+        ]
+    },
+    {
+        "user": "Dharshini R",
+        "email": "dharshinir@student.tce.edu",
+        "reg": "917723IT035",
+        "dept": "CSE",
+        "day": "Day 3",
+        "session": {
+            "time": "9:00-10:00",
+            "topic": "Project Showcase"
+        },
+        "answers": [
+            "good",
+            "yes",
+            "nothing"
+        ]
+    },
+    {
+        "user": "Dharshini R",
+        "email": "dharshinir@student.tce.edu",
+        "reg": "917723IT035",
+        "dept": "CSE",
+        "day": "Day 3",
+        "session": {
+            "time": "10:00-11:00",
+            "topic": "Alumni Talks"
+        },
+        "answers": [
+            "ok",
+            "yes",
+            "need more"
+        ]
+    },
+    {
+        "user": "Dharshini R",
+        "email": "dharshinir@student.tce.edu",
+        "reg": "917723IT035",
+        "dept": "CSE",
+        "day": "Day 2",
+        "session": {
+            "time": "9:00-10:30",
+            "topic": "Lab Infrastructure"
+        },
+        "answers": [
+            "good",
+            "yes",
+            "no"
+        ]
+    },
+    {
+        "user": "Dharshini R",
+        "email": "dharshinir@student.tce.edu",
+        "reg": "917723IT035",
+        "dept": "ECE",
+        "day": "Day 13",
+        "session": {
+            "time": "10:00-11:30",
+            "topic": "Lab Visit/Session to Plan\nVenue:"
+        },
+        "answers": [
+            "good",
+            "yes",
+            "no "
+        ]
+    },
+    {
+        "user": "Dharshini R",
+        "email": "dharshinir@student.tce.edu",
+        "reg": "917723IT035",
+        "dept": "ECE",
+        "day": "Day 13",
+        "session": {
+            "time": "12:00-01:30",
+            "topic": "Lab Visit/Session to Plan\nVenue:"
+        },
+        "answers": [
+            "ok",
+            "yes",
+            "nothing"
+        ]
+    },
+    {
+        "user": "Dharshini R",
+        "email": "dharshinir@student.tce.edu",
+        "reg": "917723IT035",
+        "dept": "IT",
+        "day": "Day 9",
+        "session": {
+            "time": "10:00-11:30",
+            "topic": "Keeladi \u2013 Local Visit"
+        },
+        "answers": [
+            "good",
+            "yes",
+            "nothing"
+        ]
+    },
+    {
+        "user": "Dharshini R",
+        "email": "dharshinir@student.tce.edu",
+        "reg": "917723IT035",
+        "dept": "MECH",
+        "day": "Day 13",
+        "session": {
+            "time": "10:00-11:30",
+            "topic": "Lab Visit/Session to Plan\nVenue:"
+        },
+        "answers": [
+            "good",
+            "yes",
+            "nothing"
+        ]
+    },
+    {
+        "user": "Dharshini R",
+        "email": "dharshinir@student.tce.edu",
+        "reg": "917723IT035",
+        "dept": "MECH",
+        "day": "Day 13",
+        "session": {
+            "time": "10:00-11:30",
+            "topic": "Lab Visit/Session to Plan\nVenue:"
+        },
+        "answers": [
+            "ok",
+            "no",
+            "needs clarity"
+        ]
+    },
+    {
+        "user": "Dharshini R",
+        "email": "dharshinir2005@gmail.com",
+        "reg": "917723IT035",
+        "dept": "MECH",
+        "day": "Day 6",
+        "session": {
+            "time": "10:00-11:30",
+            "topic": "Keeladi \u2013 Local Visit"
+        },
+        "answers": [
+            "good",
+            "yes",
+            "nothing"
+        ]
+    },
+    {
+        "user": "Dharshini R",
+        "email": "dharshinir2005@gmail.com",
+        "reg": "917723IT035",
+        "dept": "MECH",
+        "day": "Day 14",
+        "session": {
+            "time": "10:00-11:30",
+            "topic": "Lab Visit/Session to Plan\nVenue:"
+        },
+        "answers": [
+            "good",
+            "yes",
+            "nothing",
+            "Excellent"
+        ]
+    },
+    {
+        "user": "Dharshini R",
+        "email": "dharshinir2005@gmail.com",
+        "reg": "917723IT035",
+        "dept": "IT",
+        "day": "Day 1",
+        "session": {
+            "time": "10:00-11:30",
+            "topic": "Institutional Leadership Talks\nPrincipal/Registrar/COE/Deans\nVenue: KK Auditorium"
+        },
+        "answers": [
+            "good ",
+            "yes ",
+            "we need more such sessions",
+            "Excellent"
+        ]
+    },
+    {
+        "user": "Dharshini R",
+        "email": "dharshinir2005@gmail.com",
+        "reg": "917723IT035",
+        "dept": "EEE",
+        "day": "Day 1",
+        "session": {
+            "time": "10:00-11:30",
+            "topic": "Campus Tour"
+        },
+        "answers": [
+            "good",
+            "yes",
+            "we need to explore more ",
+            "Very Good"
+        ]
+    },
+    {
+        "user": "Dharshini R",
+        "email": "dharshinir2005@gmail.com",
+        "reg": "917723IT035",
+        "dept": "MECH",
+        "day": "Day 3",
+        "session": {
+            "time": "10:00-11:30",
+            "topic": "Lecture -2\nVenue: KS Auditorium"
+        },
+        "answers": [
+            "gd",
+            "yes",
+            "no",
+            "Very Good"
+        ]
+    },
+    {
+        "user": "dharshh ",
+        "email": "dharshinir2005@gmail.com",
+        "reg": "660474",
+        "dept": "AI-ML",
+        "day": "Day 13",
+        "session": {
+            "time": "10:00-11:30",
+            "topic": "CAMU Registration\n(Department Activity)"
+        },
+        "answers": [
+            "ok",
+            "no",
+            "lacked clarity",
+            "Good"
+        ]
+    },
+    {
+        "user": "dharshhii",
+        "email": "dharshinir2005@gmail.com",
+        "reg": "660474",
+        "dept": "MECHATRONICS",
+        "day": "Day 10",
+        "session": {
+            "time": "10:00-11:30",
+            "topic": "Lab Visit/Session to Plan\nVenue:"
+        },
+        "answers": [
+            "good",
+            "yes",
+            "nothing",
+            "Excellent"
+        ]
+    },
+    {
+        "user": "abc",
+        "email": "abc2005@gmail.com",
+        "reg": "660645",
+        "dept": "CSBS",
+        "day": "Day 7",
+        "session": {
+            "time": "10:00-11:30",
+            "topic": "Lecture -13\nVenue: KK Auditorium"
+        },
+        "answers": [
+            "pretty good",
+            "not much ",
+            "no suggestions",
+            "Good"
+        ]
+    },
+    {
+        "user": "abc",
+        "email": "abc2005@gmail.com",
+        "reg": "660645",
+        "dept": "CSBS",
+        "day": "Day 7",
+        "session": {
+            "time": "10:00-11:30",
+            "topic": "Lecture -13\nVenue: KK Auditorium"
+        },
+        "answers": [
+            "",
+            "",
+            "",
+            "Not Rated"
+        ]
+    },
+    {
+        "user": "Dharshini R",
+        "email": "dharshinir2005@gmail.com",
+        "reg": "917723IT035",
+        "dept": "IT",
+        "day": "Day 10",
+        "session": {
+            "time": "12:00-01:30",
+            "topic": "Lecture -18\nVenue: KK Auditorium"
+        },
+        "answers": [
+            "good",
+            "yes",
+            "ntg",
+            "Very Good"
+        ]
+    },
+    {
+        "user": "Dharshini R",
+        "email": "dharshinir2005@gmail.com",
+        "reg": "917723IT035",
+        "dept": "CSBS",
+        "day": "Day 7",
+        "session": {
+            "time": "12:00-01:30",
+            "topic": "Lecture -15\nVenue: KK Auditorium"
+        },
+        "answers": [
+            "good",
+            "ok",
+            "ntg",
+            "Good"
+        ]
+    },
+    {
+        "user": "Dharshini R",
+        "email": "dharshinir2005@gmail.com",
+        "reg": "917723IT035",
+        "dept": "CIVIL",
+        "day": "Day 14",
+        "session": {
+            "time": "10:00-11:30",
+            "topic": "Lab Visit/Session to Plan\nVenue:"
+        },
+        "answers": [
+            "good",
+            "s",
+            "ntg",
+            "Very Good"
+        ]
+    },
+    {
+        "user": "Dharshini R",
+        "email": "dharshinir2005@gmail.com",
+        "reg": "917723IT035",
+        "dept": "CIVIL",
+        "day": "Day 14",
+        "session": {
+            "time": "12:00-01:30",
+            "topic": "Lab Visit/Session to Plan\nVenue:"
+        },
+        "answers": [
+            "ok",
+            "not really",
+            "needs more clarity",
+            "Average"
+        ]
+    },
+    {
+        "user": "Dharshini R",
+        "email": "dharshinir2005@gmail.com",
+        "reg": "917723IT035",
+        "dept": "AI-ML",
+        "day": "Day 12",
+        "session": {
+            "time": "10:00-11:30",
+            "topic": "Lab Visit/Session to Plan\nVenue:"
+        },
+        "answers": [
+            "good",
+            "yes",
+            "no",
+            "Excellent"
+        ]
+    },
+    {
+        "user": "Dharshini R",
+        "email": "dharshinir2005@gmail.com",
+        "reg": "917723IT035",
+        "dept": "AI-ML",
+        "day": "Day 12",
+        "session": {
+            "time": "02:30-04:00",
+            "topic": "Lab Visit/Session to Plan\nVenue:"
+        },
+        "answers": [
+            "good",
+            "yes",
+            "no",
+            "Very Good"
+        ]
+    },
+    {
+        "user": "Dharshini R",
+        "email": "dharshinir2005@gmail.com",
+        "reg": "917723IT035",
+        "dept": "AI-ML",
+        "day": "Day 12",
+        "session": {
+            "time": "12:00-01:30",
+            "topic": "Lab Visit/Session to Plan\nVenue:"
+        },
+        "answers": [
+            "good",
+            "yes",
+            "no",
+            "Very Good"
+        ]
+    },
+    {
+        "user": "Dharshini R",
+        "email": "dharshinir2005@gmail.com",
+        "reg": "917723IT035",
+        "dept": "IT",
+        "day": "Day 3",
+        "session": {
+            "time": "10:00-11:30",
+            "topic": "Lecture -3\nVenue: KK Auditorium"
+        },
+        "answers": [
+            "good",
+            "yes",
+            "nil",
+            "Excellent"
+        ]
+    },
+    {
+        "user": "Dharshini R",
+        "email": "dharshinir2005@gmail.com",
+        "reg": "917723IT035",
+        "dept": "IT",
+        "day": "Day 8",
+        "session": {
+            "time": "10:00-11:30",
+            "topic": "Lecture -8\nVenue: KS Auditorium"
+        },
+        "answers": [
+            "good",
+            "yes",
+            "nil",
+            "Very Good"
+        ]
+    }
+]

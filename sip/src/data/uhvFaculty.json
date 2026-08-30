@@ -1,0 +1,22 @@
+{
+  "CIVIL A": ["Mrs. J. Eunice", "Dr. G. AngelinLincy"],
+  "CIVIL B": ["Ms. R. AbinayaRajakumari", "Dr. C. S. Senthilkumar"],
+  "CSBS A": ["Mr. V. Janakiraman", "Dr. S. Subash"],
+  "CSBS B": ["Mr. T. Siva", "Dr. S. Suriyakala"],
+  "CSE A": ["Dr. C. Senthilkumar", "Dr. M. Nirmala Devi"],
+  "CSE B": ["Dr. N. Shivakumar", "Dr. B. Subbulakshmi"],
+  "CSE C": ["Dr. M. Sivakumar", "Dr. N. Anita"],
+  "CSE - AIML": ["Mr. D. Nagendrakumar", "Ms. C. Karthika"],
+  "ECE A": ["Dr. P. G. S. Velmurugan", "Dr. V. Aravindan"],
+  "ECE B": ["Dr. K. Priya", "Dr. M. Tamil Elakkiya"],
+  "ECE C": ["Mr. N. Senthilnathan", "Dr. S. Sivailango"],
+  "EEE A": ["Dr. R. Rajan Prakash", "Dr. P.M. Devie"],
+  "EEE B": ["Dr. D. Kavitha", "Dr. B. Ashok Kumar"],
+  "IT A": ["Dr. D. Tamilselvi", "Dr. S. Sumathi"],
+  "IT B": ["Dr. K. R. Premlatha", "Ms. T. Suba Nachiar"],
+  "IT C": ["Mrs. A. Indirani", "Dr. M. Velayudham"],
+  "IT D": ["Dr. K. V. Uma", "Dr. RS. Swarnalakshmi"],
+  "MECH A": ["Mr. T. Prakash", "Dr. S. Umar Sherif"],
+  "MECH B": ["Dr. S. Arunkumar", "Dr. R. Kamalakannan"],
+  "MECT": ["Mr. M. A. Ganesh", "Mr. S. Rajkumar"]
+}

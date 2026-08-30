@@ -1,0 +1,1919 @@
+ {
+  "CSE": {
+    "Day 1": [
+      {
+        "time": "10:00-11:30",
+        "topic": "Institutional Leadership Talks\nPrincipal/Registrar/COE/Deans\nVenue: KK Auditorium"
+      },
+      {
+        "time": "12:00-01:30",
+        "topic": "Institutional Leadership Talks\nPrincipal/Registrar/COE/Deans\nVenue: KK Auditorium"
+      },
+      {
+        "time": "02:30-04:00",
+        "topic": "Campus Tour"
+      }
+    ],
+    "Day 2": [
+      {
+        "time": "10:00-11:30",
+        "topic": "Lecture -1\nVenue: KK Auditorium"
+      },
+      {
+        "time": "12:00-01:30",
+        "topic": "Lecture -2\nVenue: KS Auditorium"
+      },
+      {
+        "time": "02:30-04:00",
+        "topic": "Workshop\nVenue: Multipurpose Hall"
+      }
+    ],
+    "Day 3": [
+      {
+        "time": "10:00-11:30",
+        "topic": "Lecture -3\nVenue: KK Auditorium"
+      },
+      {
+        "time": "12:00-01:30",
+        "topic": "NSS/NCC/YRC\nVenue: B Halls"
+      },
+      {
+        "time": "02:30-04:00",
+        "topic": "Lecture -5\nVenue: KK Auditorium"
+      }
+    ],
+    "Day 4": [
+      {
+        "time": "10:00-11:30",
+        "topic": "Lecture -7\nVenue: KK Auditorium"
+      },
+      {
+        "time": "12:00-01:30",
+        "topic": "Lab Visit/Session to Plan\nVenue:"
+      },
+      {
+        "time": "02:30-04:00",
+        "topic": "Lecture -11\nVenue: KK Auditorium"
+      }
+    ],
+    "Day 5": [
+      {
+        "time": "10:00-11:30",
+        "topic": "Lecture -4\nVenue: KS Auditorium"
+      },
+      {
+        "time": "12:00-01:30",
+        "topic": "Lecture -9\nVenue: KK Auditorium"
+      },
+      {
+        "time": "02:30-04:00",
+        "topic": "Sports\nVenue: Ground"
+      }
+    ],
+    "Day 6": [
+      {
+        "time": "10:00-11:30",
+        "topic": "Lecture -13\nVenue: KK Auditorium"
+      },
+      {
+        "time": "12:00-01:30",
+        "topic": "Lecture -15\nVenue: KK Auditorium"
+      },
+      {
+        "time": "02:30-04:00",
+        "topic": "Lecture -17\nVenue: KK Auditorium"
+      }
+    ],
+    "Day 7": [
+      {
+        "time": "10:00-11:30",
+        "topic": "Lecture -6\nVenue: KS Auditorium"
+      },
+      {
+        "time": "12:00-01:30",
+        "topic": "Lecture -8\nVenue: KS Auditorium"
+      },
+      {
+        "time": "02:30-04:00",
+        "topic": "Lab Visit/Session to Plan\nVenue:"
+      }
+    ],
+    "Day 8": [
+      {
+        "time": "10:00-11:30",
+        "topic": "Lecture -18\nVenue: KK Auditorium"
+      },
+      {
+        "time": "12:00-01:30",
+        "topic": "Lab Visit/Session to Plan\nVenue:"
+      },
+      {
+        "time": "02:30-04:00",
+        "topic": "Lab Visit/Session to Plan\nVenue:"
+      }
+    ],
+    "Day 9": [
+      {
+        "time": "10:00-11:30",
+        "topic": "Lecture -20\nVenue: KK Auditorium"
+      },
+      {
+        "time": "12:00-01:30",
+        "topic": "Lab Visit/Session to Plan\nVenue:"
+      },
+      {
+        "time": "02:30-04:00",
+        "topic": "Lab Visit/Session to Plan\nVenue:"
+      }
+    ],
+    "Day 10": [
+      {
+        "time": "10:00-11:30",
+        "topic": "Keeladi – Local Visit"
+      },
+      {
+        "time": "12:00-01:30",
+        "topic": "Keeladi – Local Visit"
+      },
+      {
+        "time": "02:30-04:00",
+        "topic": "Keeladi – Local Visit"
+      }
+    ],
+    "Day 11": [
+      {
+        "time": "10:00-11:30",
+        "topic": "HoD Address to Students\n(Department Activity)"
+      },
+      {
+        "time": "12:00-01:30",
+        "topic": "Tutor Ward System\n(Department Activity)"
+      },
+      {
+        "time": "02:30-04:00",
+        "topic": "UMIS Registration\n(Department Activity)"
+      }
+    ],
+    "Day 12": [
+      {
+        "time": "10:00-11:30",
+        "topic": "Lab Visit/Session to Plan\nVenue:"
+      },
+      {
+        "time": "12:00-01:30",
+        "topic": "Lab Visit/Session to Plan\nVenue:"
+      },
+      {
+        "time": "02:30-04:00",
+        "topic": "Lab Visit/Session to Plan\nVenue:"
+      }
+    ],
+    "Day 13": [
+      {
+        "time": "10:00-11:30",
+        "topic": "CAMU Registration\n(Department Activity)"
+      },
+      {
+        "time": "12:00-01:30",
+        "topic": "Lab Visit/Session to Plan\nVenue:"
+      },
+      {
+        "time": "02:30-04:00",
+        "topic": "Lab Visit/Session to Plan\nVenue:"
+      }
+    ],
+    "Day 14": [
+      {
+        "time": "10:00-11:30",
+        "topic": "Lab Visit/Session to Plan\nVenue:"
+      },
+      {
+        "time": "12:00-01:30",
+        "topic": "Lab Visit/Session to Plan\nVenue:"
+      },
+      {
+        "time": "02:30-04:00",
+        "topic": "Lab Visit/Session to Plan\nVenue:"
+      }
+    ],
+    "Day 15": [
+      {
+        "time": "10:00-11:30",
+        "topic": "Lab Visit/Session to Plan\nVenue:"
+      },
+      {
+        "time": "12:00-01:30",
+        "topic": "Lab Visit/Session to Plan\nVenue:"
+      },
+      {
+        "time": "02:30-04:00",
+        "topic": "Feedback\nVenue: KK Auditorium"
+      }
+    ]
+  }
+,
+"AI-ML": {
+    "Day 1": [
+      {
+        "time": "10:00-11:30",
+        "topic": "Institutional Leadership Talks\nPrincipal/Registrar/COE/Deans\nVenue: KK Auditorium"
+      },
+      {
+        "time": "12:00-01:30",
+        "topic": "Institutional Leadership Talks\nPrincipal/Registrar/COE/Deans\nVenue: KK Auditorium"
+      },
+      {
+        "time": "02:30-04:00",
+        "topic": "Campus Tour"
+      }
+    ],
+    "Day 2": [
+      {
+        "time": "10:00-11:30",
+        "topic": "Lecture -1\nVenue: KK Auditorium"
+      },
+      {
+        "time": "12:00-01:30",
+        "topic": "Lecture -2\nVenue: KS Auditorium"
+      },
+      {
+        "time": "02:30-04:00",
+        "topic": "Workshop\nVenue: Multipurpose Hall"
+      }
+    ],
+    "Day 3": [
+      {
+        "time": "10:00-11:30",
+        "topic": "Lecture -3\nVenue: KK Auditorium"
+      },
+      {
+        "time": "12:00-01:30",
+        "topic": "NSS/NCC/YRC\nVenue: B Halls"
+      },
+      {
+        "time": "02:30-04:00",
+        "topic": "Lecture -5\nVenue: KK Auditorium"
+      }
+    ],
+    "Day 4": [
+      {
+        "time": "10:00-11:30",
+        "topic": "Lecture -7\nVenue: KK Auditorium"
+      },
+      {
+        "time": "12:00-01:30",
+        "topic": "Lab Visit/Session to Plan\nVenue:"
+      },
+      {
+        "time": "02:30-04:00",
+        "topic": "Lecture -11\nVenue: KK Auditorium"
+      }
+    ],
+    "Day 5": [
+      {
+        "time": "10:00-11:30",
+        "topic": "Lecture -4\nVenue: KS Auditorium"
+      },
+      {
+        "time": "12:00-01:30",
+        "topic": "Lecture -9\nVenue: KK Auditorium"
+      },
+      {
+        "time": "02:30-04:00",
+        "topic": "Sports\nVenue: Ground"
+      }
+    ],
+    "Day 6": [
+      {
+        "time": "10:00-11:30",
+        "topic": "Lecture -13\nVenue: KK Auditorium"
+      },
+      {
+        "time": "12:00-01:30",
+        "topic": "Lecture -15\nVenue: KK Auditorium"
+      },
+      {
+        "time": "02:30-04:00",
+        "topic": "Lecture -17\nVenue: KK Auditorium"
+      }
+    ],
+    "Day 7": [
+      {
+        "time": "10:00-11:30",
+        "topic": "Lecture -6\nVenue: KS Auditorium"
+      },
+      {
+        "time": "12:00-01:30",
+        "topic": "Lecture -8\nVenue: KS Auditorium"
+      },
+      {
+        "time": "02:30-04:00",
+        "topic": "Lab Visit/Session to Plan\nVenue:"
+      }
+    ],
+    "Day 8": [
+      {
+        "time": "10:00-11:30",
+        "topic": "Lecture -18\nVenue: KK Auditorium"
+      },
+      {
+        "time": "12:00-01:30",
+        "topic": "Lab Visit/Session to Plan\nVenue:"
+      },
+      {
+        "time": "02:30-04:00",
+        "topic": "Lab Visit/Session to Plan\nVenue:"
+      }
+    ],
+    "Day 9": [
+      {
+        "time": "10:00-11:30",
+        "topic": "Lecture -20\nVenue: KK Auditorium"
+      },
+      {
+        "time": "12:00-01:30",
+        "topic": "Lab Visit/Session to Plan\nVenue:"
+      },
+      {
+        "time": "02:30-04:00",
+        "topic": "Lab Visit/Session to Plan\nVenue:"
+      }
+    ],
+    "Day 10": [
+      {
+        "time": "10:00-11:30",
+        "topic": "Keeladi – Local Visit"
+      },
+      {
+        "time": "12:00-01:30",
+        "topic": "Keeladi – Local Visit"
+      },
+      {
+        "time": "02:30-04:00",
+        "topic": "Keeladi – Local Visit"
+      }
+    ],
+    "Day 11": [
+      {
+        "time": "10:00-11:30",
+        "topic": "HoD Address to Students\n(Department Activity)"
+      },
+      {
+        "time": "12:00-01:30",
+        "topic": "Tutor Ward System\n(Department Activity)"
+      },
+      {
+        "time": "02:30-04:00",
+        "topic": "UMIS Registration\n(Department Activity)"
+      }
+    ],
+    "Day 12": [
+      {
+        "time": "10:00-11:30",
+        "topic": "Lab Visit/Session to Plan\nVenue:"
+      },
+      {
+        "time": "12:00-01:30",
+        "topic": "Lab Visit/Session to Plan\nVenue:"
+      },
+      {
+        "time": "02:30-04:00",
+        "topic": "Lab Visit/Session to Plan\nVenue:"
+      }
+    ],
+    "Day 13": [
+      {
+        "time": "10:00-11:30",
+        "topic": "CAMU Registration\n(Department Activity)"
+      },
+      {
+        "time": "12:00-01:30",
+        "topic": "Lab Visit/Session to Plan\nVenue:"
+      },
+      {
+        "time": "02:30-04:00",
+        "topic": "Lab Visit/Session to Plan\nVenue:"
+      }
+    ],
+    "Day 14": [
+      {
+        "time": "10:00-11:30",
+        "topic": "Lab Visit/Session to Plan\nVenue:"
+      },
+      {
+        "time": "12:00-01:30",
+        "topic": "Lab Visit/Session to Plan\nVenue:"
+      },
+      {
+        "time": "02:30-04:00",
+        "topic": "Lab Visit/Session to Plan\nVenue:"
+      }
+    ],
+    "Day 15": [
+      {
+        "time": "10:00-11:30",
+        "topic": "Lab Visit/Session to Plan\nVenue:"
+      },
+      {
+        "time": "12:00-01:30",
+        "topic": "Lab Visit/Session to Plan\nVenue:"
+      },
+      {
+        "time": "02:30-04:00",
+        "topic": "Feedback\nVenue: KK Auditorium"
+      }
+    ]
+  }
+,
+  "IT": {
+    "Day 1": [
+      {
+        "time": "10:00-11:30",
+        "topic": "Institutional Leadership Talks\nPrincipal/Registrar/COE/Deans\nVenue: KK Auditorium"
+      },
+      {
+        "time": "12:00-01:30",
+        "topic": "Institutional Leadership Talks\nPrincipal/Registrar/COE/Deans\nVenue: KK Auditorium"
+      },
+      {
+        "time": "02:30-04:00",
+        "topic": "Campus Tour"
+      }
+    ],
+    "Day 2": [
+      {
+        "time": "10:00-11:30",
+        "topic": "Lecture -1\nVenue: KK Auditorium"
+      },
+      {
+        "time": "12:00-01:30",
+        "topic": "Lab Visit/Session to Plan\nVenue:"
+      },
+      {
+        "time": "02:30-04:00",
+        "topic": "Lecture -2\nVenue: KS Auditorium"
+      }
+    ],
+    "Day 3": [
+      {
+        "time": "10:00-11:30",
+        "topic": "Lecture -3\nVenue: KK Auditorium"
+      },
+      {
+        "time": "12:00-01:30",
+        "topic": "Workshop\nVenue: Multipurpose Hall"
+      },
+      {
+        "time": "02:30-04:00",
+        "topic": "Lecture -5\nVenue: KK Auditorium"
+      }
+    ],
+    "Day 4": [
+      {
+        "time": "10:00-11:30",
+        "topic": "Lecture -7\nVenue: KK Auditorium"
+      },
+      {
+        "time": "12:00-01:30",
+        "topic": "Lecture -4\nVenue: KS Auditorium"
+      },
+      {
+        "time": "02:30-04:00",
+        "topic": "Lecture -11\nVenue: KK Auditorium"
+      }
+    ],
+    "Day 5": [
+      {
+        "time": "10:00-11:30",
+        "topic": "Lab Visit/Session to Plan\nVenue:"
+      },
+      {
+        "time": "12:00-01:30",
+        "topic": "Lecture -9\nVenue: KK Auditorium"
+      },
+      {
+        "time": "02:30-04:00",
+        "topic": "NSS/NCC/YRC\nVenue: B Halls"
+      }
+    ],
+    "Day 6": [
+      {
+        "time": "10:00-11:30",
+        "topic": "Lecture -13\nVenue: KK Auditorium"
+      },
+      {
+        "time": "12:00-01:30",
+        "topic": "Lecture -15\nVenue: KK Auditorium"
+      },
+      {
+        "time": "02:30-04:00",
+        "topic": "Lecture -17\nVenue: KK Auditorium"
+      }
+    ],
+    "Day 7": [
+      {
+        "time": "10:00-11:30",
+        "topic": "Lab Visit/Session to Plan\nVenue:"
+      },
+      {
+        "time": "12:00-01:30",
+        "topic": "Lab Visit/Session to Plan\nVenue:"
+      },
+      {
+        "time": "02:30-04:00",
+        "topic": "Sports\nVenue: Ground"
+      }
+    ],
+    "Day 8": [
+      {
+        "time": "10:00-11:30",
+        "topic": "Lecture -8\nVenue: KS Auditorium"
+      },
+      {
+        "time": "12:00-01:30",
+        "topic": "Lab Visit/Session to Plan\nVenue:"
+      },
+      {
+        "time": "02:30-04:00",
+        "topic": "Lab Visit/Session to Plan\nVenue:"
+      }
+    ],
+    "Day 9": [
+      {
+        "time": "10:00-11:30",
+        "topic": "Keeladi – Local Visit"
+      },
+      {
+        "time": "12:00-01:30",
+        "topic": "Keeladi – Local Visit"
+      },
+      {
+        "time": "02:30-04:00",
+        "topic": "Keeladi – Local Visit"
+      }
+    ],
+    "Day 10": [
+      {
+        "time": "10:00-11:30",
+        "topic": "Lecture -20\nVenue: KK Auditorium"
+      },
+      {
+        "time": "12:00-01:30",
+        "topic": "Lecture -18\nVenue: KK Auditorium"
+      },
+      {
+        "time": "02:30-04:00",
+        "topic": "Lecture -6\nVenue: KS Auditorium"
+      }
+    ],
+    "Day 11": [
+      {
+        "time": "10:00-11:30",
+        "topic": "HoD Address to Students\n(Department Activity)"
+      },
+      {
+        "time": "12:00-01:30",
+        "topic": "Tutor Ward System\n(Department Activity)"
+      },
+      {
+        "time": "02:30-04:00",
+        "topic": "CAMU Registration\n(Department Activity)"
+      }
+    ],
+    "Day 12": [
+      {
+        "time": "10:00-11:30",
+        "topic": "Lab Visit/Session to Plan\nVenue:"
+      },
+      {
+        "time": "12:00-01:30",
+        "topic": "Lab Visit/Session to Plan\nVenue:"
+      },
+      {
+        "time": "02:30-04:00",
+        "topic": "UMIS Registration\n(Department Activity)"
+      }
+    ],
+    "Day 13": [
+      {
+        "time": "10:00-11:30",
+        "topic": "Lab Visit/Session to Plan\nVenue:"
+      },
+      {
+        "time": "12:00-01:30",
+        "topic": "Lab Visit/Session to Plan\nVenue:"
+      },
+      {
+        "time": "02:30-04:00",
+        "topic": "Lab Visit/Session to Plan\nVenue:"
+      }
+    ],
+    "Day 14": [
+      {
+        "time": "10:00-11:30",
+        "topic": "Lab Visit/Session to Plan\nVenue:"
+      },
+      {
+        "time": "12:00-01:30",
+        "topic": "Lab Visit/Session to Plan\nVenue:"
+      },
+      {
+        "time": "02:30-04:00",
+        "topic": "Lab Visit/Session to Plan\nVenue:"
+      }
+    ],
+    "Day 15": [
+      {
+        "time": "10:00-11:30",
+        "topic": "Lab Visit/Session to Plan\nVenue:"
+      },
+      {
+        "time": "12:00-01:30",
+        "topic": "Lab Visit/Session to Plan\nVenue:"
+      },
+      {
+        "time": "02:30-04:00",
+        "topic": "Feedback\nVenue: KK Auditorium"
+      }
+    ]
+  }
+,
+  "ECE": {
+    "Day 1": [
+      {
+        "time": "10:00-11:30",
+        "topic": "Institutional Leadership Talks\nPrincipal/Registrar/COE/Deans\nVenue: KK Auditorium"
+      },
+      {
+        "time": "12:00-01:30",
+        "topic": "Institutional Leadership Talks\nPrincipal/Registrar/COE/Deans\nVenue: KK Auditorium"
+      },
+      {
+        "time": "02:30-04:00",
+        "topic": "Campus Tour"
+      }
+    ],
+    "Day 2": [
+      {
+        "time": "10:00-11:30",
+        "topic": "Lecture -1\nVenue: KK Auditorium"
+      },
+      {
+        "time": "12:00-01:30",
+        "topic": "Lab Visit/Session to Plan\nVenue:"
+      },
+      {
+        "time": "02:30-04:00",
+        "topic": "Lab Visit/Session to Plan\nVenue:"
+      }
+    ],
+    "Day 3": [
+      {
+        "time": "10:00-11:30",
+        "topic": "Lecture -3\nVenue: KK Auditorium"
+      },
+      {
+        "time": "12:00-01:30",
+        "topic": "Lecture -2\nVenue: KS Auditorium"
+      },
+      {
+        "time": "02:30-04:00",
+        "topic": "Lecture -5\nVenue: KK Auditorium"
+      }
+    ],
+    "Day 4": [
+      {
+        "time": "10:00-11:30",
+        "topic": "Lecture -7\nVenue: KK Auditorium"
+      },
+      {
+        "time": "12:00-01:30",
+        "topic": "Lab Visit/Session to Plan\nVenue:"
+      },
+      {
+        "time": "02:30-04:00",
+        "topic": "Lecture -11\nVenue: KK Auditorium"
+      }
+    ],
+    "Day 5": [
+      {
+        "time": "10:00-11:30",
+        "topic": "Lab Visit/Session to Plan\nVenue:"
+      },
+      {
+        "time": "12:00-01:30",
+        "topic": "Lecture -9\nVenue: KK Auditorium"
+      },
+      {
+        "time": "02:30-04:00",
+        "topic": "Lecture -4\nVenue: KS Auditorium"
+      }
+    ],
+    "Day 6": [
+      {
+        "time": "10:00-11:30",
+        "topic": "Lecture -13\nVenue: KK Auditorium"
+      },
+      {
+        "time": "12:00-01:30",
+        "topic": "Lecture -15\nVenue: KK Auditorium"
+      },
+      {
+        "time": "02:30-04:00",
+        "topic": "Lecture -17\nVenue: KK Auditorium"
+      }
+    ],
+    "Day 7": [
+      {
+        "time": "10:00-11:30",
+        "topic": "NSS/NCC/YRC\nVenue: B Halls"
+      },
+      {
+        "time": "12:00-01:30",
+        "topic": "Lab Visit/Session to Plan\nVenue:"
+      },
+      {
+        "time": "02:30-04:00",
+        "topic": "Lecture -6\nVenue: KS Auditorium"
+      }
+    ],
+    "Day 8": [
+      {
+        "time": "10:00-11:30",
+        "topic": "Keeladi – Local Visit"
+      },
+      {
+        "time": "12:00-01:30",
+        "topic": "Keeladi – Local Visit"
+      },
+      {
+        "time": "02:30-04:00",
+        "topic": "Keeladi – Local Visit"
+      }
+    ],
+    "Day 9": [
+      {
+        "time": "10:00-11:30",
+        "topic": "Lecture -20\nVenue: KK Auditorium"
+      },
+      {
+        "time": "12:00-01:30",
+        "topic": "Lecture -8\nVenue: KS Auditorium"
+      },
+      {
+        "time": "02:30-04:00",
+        "topic": "Workshop\nVenue: Multipurpose Hall"
+      }
+    ],
+    "Day 10": [
+      {
+        "time": "10:00-11:30",
+        "topic": "Lab Visit/Session to Plan\nVenue:"
+      },
+      {
+        "time": "12:00-01:30",
+        "topic": "Lecture -18\nVenue: KK Auditorium"
+      },
+      {
+        "time": "02:30-04:00",
+        "topic": "Sports\nVenue: Ground"
+      }
+    ],
+    "Day 11": [
+      {
+        "time": "10:00-11:30",
+        "topic": "HoD Address to Students\n(Department Activity)"
+      },
+      {
+        "time": "12:00-01:30",
+        "topic": "Tutor Ward System\n(Department Activity)"
+      },
+      {
+        "time": "02:30-04:00",
+        "topic": "UMIS Registration\n(Department Activity)"
+      }
+    ],
+    "Day 12": [
+      {
+        "time": "10:00-11:30",
+        "topic": "CAMU Registration\n(Department Activity)"
+      },
+      {
+        "time": "12:00-01:30",
+        "topic": "Lab Visit/Session to Plan\nVenue:"
+      },
+      {
+        "time": "02:30-04:00",
+        "topic": "Lab Visit/Session to Plan\nVenue:"
+      }
+    ],
+    "Day 13": [
+      {
+        "time": "10:00-11:30",
+        "topic": "Lab Visit/Session to Plan\nVenue:"
+      },
+      {
+        "time": "12:00-01:30",
+        "topic": "Lab Visit/Session to Plan\nVenue:"
+      },
+      {
+        "time": "02:30-04:00",
+        "topic": "Lab Visit/Session to Plan\nVenue:"
+      }
+    ],
+    "Day 14": [
+      {
+        "time": "10:00-11:30",
+        "topic": "Lab Visit/Session to Plan\nVenue:"
+      },
+      {
+        "time": "12:00-01:30",
+        "topic": "Lab Visit/Session to Plan\nVenue:"
+      },
+      {
+        "time": "02:30-04:00",
+        "topic": "Lab Visit/Session to Plan\nVenue:"
+      }
+    ],
+    "Day 15": [
+      {
+        "time": "10:00-11:30",
+        "topic": "Lab Visit/Session to Plan\nVenue:"
+      },
+      {
+        "time": "12:00-01:30",
+        "topic": "Lab Visit/Session to Plan\nVenue:"
+      },
+      {
+        "time": "02:30-04:00",
+        "topic": "Feedback\nVenue: KK Auditorium"
+      }
+    ]
+  }
+,
+"MECHATRONICS": {
+    "Day 1": [
+      {
+        "time": "10:00-11:30",
+        "topic": "Institutional Leadership Talks\nPrincipal/Registrar/COE/Deans\nVenue: KK Auditorium"
+      },
+      {
+        "time": "12:00-01:30",
+        "topic": "Institutional Leadership Talks\nPrincipal/Registrar/COE/Deans\nVenue: KK Auditorium"
+      },
+      {
+        "time": "02:30-04:00",
+        "topic": "Campus Tour"
+      }
+    ],
+    "Day 2": [
+      {
+        "time": "10:00-11:30",
+        "topic": "Lecture -1\nVenue: KK Auditorium"
+      },
+      {
+        "time": "12:00-01:30",
+        "topic": "Lab Visit/Session to Plan\nVenue:"
+      },
+      {
+        "time": "02:30-04:00",
+        "topic": "Lab Visit/Session to Plan\nVenue:"
+      }
+    ],
+    "Day 3": [
+      {
+        "time": "10:00-11:30",
+        "topic": "Lecture -3\nVenue: KK Auditorium"
+      },
+      {
+        "time": "12:00-01:30",
+        "topic": "Lecture -2\nVenue: KS Auditorium"
+      },
+      {
+        "time": "02:30-04:00",
+        "topic": "Lecture -5\nVenue: KK Auditorium"
+      }
+    ],
+    "Day 4": [
+      {
+        "time": "10:00-11:30",
+        "topic": "Lecture -7\nVenue: KK Auditorium"
+      },
+      {
+        "time": "12:00-01:30",
+        "topic": "Lab Visit/Session to Plan\nVenue:"
+      },
+      {
+        "time": "02:30-04:00",
+        "topic": "Lecture -11\nVenue: KK Auditorium"
+      }
+    ],
+    "Day 5": [
+      {
+        "time": "10:00-11:30",
+        "topic": "Lab Visit/Session to Plan\nVenue:"
+      },
+      {
+        "time": "12:00-01:30",
+        "topic": "Lecture -9\nVenue: KK Auditorium"
+      },
+      {
+        "time": "02:30-04:00",
+        "topic": "Lecture -4\nVenue: KS Auditorium"
+      }
+    ],
+    "Day 6": [
+      {
+        "time": "10:00-11:30",
+        "topic": "Lecture -13\nVenue: KK Auditorium"
+      },
+      {
+        "time": "12:00-01:30",
+        "topic": "Lecture -15\nVenue: KK Auditorium"
+      },
+      {
+        "time": "02:30-04:00",
+        "topic": "Lecture -17\nVenue: KK Auditorium"
+      }
+    ],
+    "Day 7": [
+      {
+        "time": "10:00-11:30",
+        "topic": "NSS/NCC/YRC\nVenue: B Halls"
+      },
+      {
+        "time": "12:00-01:30",
+        "topic": "Lab Visit/Session to Plan\nVenue:"
+      },
+      {
+        "time": "02:30-04:00",
+        "topic": "Lecture -6\nVenue: KS Auditorium"
+      }
+    ],
+    "Day 8": [
+      {
+        "time": "10:00-11:30",
+        "topic": "Keeladi – Local Visit"
+      },
+      {
+        "time": "12:00-01:30",
+        "topic": "Keeladi – Local Visit"
+      },
+      {
+        "time": "02:30-04:00",
+        "topic": "Keeladi – Local Visit"
+      }
+    ],
+    "Day 9": [
+      {
+        "time": "10:00-11:30",
+        "topic": "Lecture -20\nVenue: KK Auditorium"
+      },
+      {
+        "time": "12:00-01:30",
+        "topic": "Lecture -8\nVenue: KS Auditorium"
+      },
+      {
+        "time": "02:30-04:00",
+        "topic": "Workshop\nVenue: Multipurpose Hall"
+      }
+    ],
+    "Day 10": [
+      {
+        "time": "10:00-11:30",
+        "topic": "Lab Visit/Session to Plan\nVenue:"
+      },
+      {
+        "time": "12:00-01:30",
+        "topic": "Lecture -18\nVenue: KK Auditorium"
+      },
+      {
+        "time": "02:30-04:00",
+        "topic": "Sports\nVenue: Ground"
+      }
+    ],
+    "Day 11": [
+      {
+        "time": "10:00-11:30",
+        "topic": "HoD Address to Students\n(Department Activity)"
+      },
+      {
+        "time": "12:00-01:30",
+        "topic": "Tutor Ward System\n(Department Activity)"
+      },
+      {
+        "time": "02:30-04:00",
+        "topic": "UMIS Registration\n(Department Activity)"
+      }
+    ],
+    "Day 12": [
+      {
+        "time": "10:00-11:30",
+        "topic": "CAMU Registration\n(Department Activity)"
+      },
+      {
+        "time": "12:00-01:30",
+        "topic": "Lab Visit/Session to Plan\nVenue:"
+      },
+      {
+        "time": "02:30-04:00",
+        "topic": "Lab Visit/Session to Plan\nVenue:"
+      }
+    ],
+    "Day 13": [
+      {
+        "time": "10:00-11:30",
+        "topic": "Lab Visit/Session to Plan\nVenue:"
+      },
+      {
+        "time": "12:00-01:30",
+        "topic": "Lab Visit/Session to Plan\nVenue:"
+      },
+      {
+        "time": "02:30-04:00",
+        "topic": "Lab Visit/Session to Plan\nVenue:"
+      }
+    ],
+    "Day 14": [
+      {
+        "time": "10:00-11:30",
+        "topic": "Lab Visit/Session to Plan\nVenue:"
+      },
+      {
+        "time": "12:00-01:30",
+        "topic": "Lab Visit/Session to Plan\nVenue:"
+      },
+      {
+        "time": "02:30-04:00",
+        "topic": "Lab Visit/Session to Plan\nVenue:"
+      }
+    ],
+    "Day 15": [
+      {
+        "time": "10:00-11:30",
+        "topic": "Lab Visit/Session to Plan\nVenue:"
+      },
+      {
+        "time": "12:00-01:30",
+        "topic": "Lab Visit/Session to Plan\nVenue:"
+      },
+      {
+        "time": "02:30-04:00",
+        "topic": "Feedback\nVenue: KK Auditorium"
+      }
+    ]
+  }
+,
+
+  "EEE": {
+    "Day 1": [
+      {
+        "time": "10:00-11:30",
+        "topic": "Campus Tour"
+      },
+      {
+        "time": "12:00-01:30",
+        "topic": "Institutional Leadership Talks\nPrincipal/Registrar/COE/Deans\nVenue: KK Auditorium"
+      },
+      {
+        "time": "02:30-04:00",
+        "topic": "Institutional Leadership Talks\nPrincipal/Registrar/COE/Deans\nVenue: KK Auditorium"
+      }
+    ],
+    "Day 2": [
+      {
+        "time": "10:00-11:30",
+        "topic": "Lecture -2\nVenue: KS Auditorium"
+      },
+      {
+        "time": "12:00-01:30",
+        "topic": "Lecture -1\nVenue: KK Auditorium"
+      },
+      {
+        "time": "02:30-04:00",
+        "topic": "Lecture -5\nVenue: KK Auditorium"
+      }
+    ],
+    "Day 3": [
+      {
+        "time": "10:00-11:30",
+        "topic": "Lab Visit/Session to Plan\nVenue:"
+      },
+      {
+        "time": "12:00-01:30",
+        "topic": "Lecture -3\nVenue: KK Auditorium"
+      },
+      {
+        "time": "02:30-04:00",
+        "topic": "Lecture -6\nVenue: KS Auditorium"
+      }
+    ],
+    "Day 4": [
+      {
+        "time": "10:00-11:30",
+        "topic": "Lecture -4\nVenue: KS Auditorium"
+      },
+      {
+        "time": "12:00-01:30",
+        "topic": "Lecture -7\nVenue: KK Auditorium"
+      },
+      {
+        "time": "02:30-04:00",
+        "topic": "Lab Visit/Session to Plan\nVenue:"
+      }
+    ],
+    "Day 5": [
+      {
+        "time": "10:00-11:30",
+        "topic": "Lecture -9\nVenue: KK Auditorium"
+      },
+      {
+        "time": "12:00-01:30",
+        "topic": "Sports\nVenue: Ground"
+      },
+      {
+        "time": "02:30-04:00",
+        "topic": "Lecture -11\nVenue: KK Auditorium"
+      }
+    ],
+    "Day 6": [
+      {
+        "time": "10:00-11:30",
+        "topic": "Keeladi – Local Visit"
+      },
+      {
+        "time": "12:00-01:30",
+        "topic": "Keeladi – Local Visit"
+      },
+      {
+        "time": "02:30-04:00",
+        "topic": "Keeladi – Local Visit"
+      }
+    ],
+    "Day 7": [
+      {
+        "time": "10:00-11:30",
+        "topic": "Lecture -13\nVenue: KK Auditorium"
+      },
+      {
+        "time": "12:00-01:30",
+        "topic": "Lecture -15\nVenue: KK Auditorium"
+      },
+      {
+        "time": "02:30-04:00",
+        "topic": "Lecture -17\nVenue: KK Auditorium"
+      }
+    ],
+    "Day 8": [
+      {
+        "time": "10:00-11:30",
+        "topic": "Lecture -18\nVenue: KK Auditorium"
+      },
+      {
+        "time": "12:00-01:30",
+        "topic": "Lecture -8\nVenue: KS Auditorium"
+      },
+      {
+        "time": "02:30-04:00",
+        "topic": "Lab Visit/Session to Plan\nVenue:"
+      }
+    ],
+    "Day 9": [
+      {
+        "time": "10:00-11:30",
+        "topic": "Lecture -20\nVenue: KK Auditorium"
+      },
+      {
+        "time": "12:00-01:30",
+        "topic": "NSS/NCC/YRC\nVenue: B Halls"
+      },
+      {
+        "time": "02:30-04:00",
+        "topic": "Lab Visit/Session to Plan\nVenue:"
+      }
+    ],
+    "Day 10": [
+      {
+        "time": "10:00-11:30",
+        "topic": "Lab Visit/Session to Plan\nVenue:"
+      },
+      {
+        "time": "12:00-01:30",
+        "topic": "Lab Visit/Session to Plan\nVenue:"
+      },
+      {
+        "time": "02:30-04:00",
+        "topic": "Workshop\nVenue: Multipurpose Hall"
+      }
+    ],
+    "Day 11": [
+      {
+        "time": "10:00-11:30",
+        "topic": "HoD Address to Students\n(Department Activity)"
+      },
+      {
+        "time": "12:00-01:30",
+        "topic": "Tutor Ward System\n(Department Activity)"
+      },
+      {
+        "time": "02:30-04:00",
+        "topic": "UMIS Registration\n(Department Activity)"
+      }
+    ],
+    "Day 12": [
+      {
+        "time": "10:00-11:30",
+        "topic": "Lab Visit/Session to Plan\nVenue:"
+      },
+      {
+        "time": "12:00-01:30",
+        "topic": "CAMU Registration\n(Department Activity)"
+      },
+      {
+        "time": "02:30-04:00",
+        "topic": "Lab Visit/Session to Plan\nVenue:"
+      }
+    ],
+    "Day 13": [
+      {
+        "time": "10:00-11:30",
+        "topic": "Lab Visit/Session to Plan\nVenue:"
+      },
+      {
+        "time": "12:00-01:30",
+        "topic": "Lab Visit/Session to Plan\nVenue:"
+      },
+      {
+        "time": "02:30-04:00",
+        "topic": "Lab Visit/Session to Plan\nVenue:"
+      }
+    ],
+    "Day 14": [
+      {
+        "time": "10:00-11:30",
+        "topic": "Lab Visit/Session to Plan\nVenue:"
+      },
+      {
+        "time": "12:00-01:30",
+        "topic": "Lab Visit/Session to Plan\nVenue:"
+      },
+      {
+        "time": "02:30-04:00",
+        "topic": "Lab Visit/Session to Plan\nVenue:"
+      }
+    ],
+    "Day 15": [
+      {
+        "time": "10:00-11:30",
+        "topic": "Lab Visit/Session to Plan\nVenue:"
+      },
+      {
+        "time": "12:00-01:30",
+        "topic": "Lab Visit/Session to Plan\nVenue:"
+      },
+      {
+        "time": "02:30-04:00",
+        "topic": "Feedback\nVenue: KK Auditorium"
+      }
+    ]
+  }
+,
+"CSBS": {
+    "Day 1": [
+      {
+        "time": "10:00-11:30",
+        "topic": "Campus Tour"
+      },
+      {
+        "time": "12:00-01:30",
+        "topic": "Institutional Leadership Talks\nPrincipal/Registrar/COE/Deans\nVenue: KK Auditorium"
+      },
+      {
+        "time": "02:30-04:00",
+        "topic": "Institutional Leadership Talks\nPrincipal/Registrar/COE/Deans\nVenue: KK Auditorium"
+      }
+    ],
+    "Day 2": [
+      {
+        "time": "10:00-11:30",
+        "topic": "Lecture -2\nVenue: KS Auditorium"
+      },
+      {
+        "time": "12:00-01:30",
+        "topic": "Lecture -1\nVenue: KK Auditorium"
+      },
+      {
+        "time": "02:30-04:00",
+        "topic": "Lecture -5\nVenue: KK Auditorium"
+      }
+    ],
+    "Day 3": [
+      {
+        "time": "10:00-11:30",
+        "topic": "Lab Visit/Session to Plan\nVenue:"
+      },
+      {
+        "time": "12:00-01:30",
+        "topic": "Lecture -3\nVenue: KK Auditorium"
+      },
+      {
+        "time": "02:30-04:00",
+        "topic": "Lecture -6\nVenue: KS Auditorium"
+      }
+    ],
+    "Day 4": [
+      {
+        "time": "10:00-11:30",
+        "topic": "Lecture -4\nVenue: KS Auditorium"
+      },
+      {
+        "time": "12:00-01:30",
+        "topic": "Lecture -7\nVenue: KK Auditorium"
+      },
+      {
+        "time": "02:30-04:00",
+        "topic": "Lab Visit/Session to Plan\nVenue:"
+      }
+    ],
+    "Day 5": [
+      {
+        "time": "10:00-11:30",
+        "topic": "Lecture -9\nVenue: KK Auditorium"
+      },
+      {
+        "time": "12:00-01:30",
+        "topic": "Sports\nVenue: Ground"
+      },
+      {
+        "time": "02:30-04:00",
+        "topic": "Lecture -11\nVenue: KK Auditorium"
+      }
+    ],
+    "Day 6": [
+      {
+        "time": "10:00-11:30",
+        "topic": "Keeladi – Local Visit"
+      },
+      {
+        "time": "12:00-01:30",
+        "topic": "Keeladi – Local Visit"
+      },
+      {
+        "time": "02:30-04:00",
+        "topic": "Keeladi – Local Visit"
+      }
+    ],
+    "Day 7": [
+      {
+        "time": "10:00-11:30",
+        "topic": "Lecture -13\nVenue: KK Auditorium"
+      },
+      {
+        "time": "12:00-01:30",
+        "topic": "Lecture -15\nVenue: KK Auditorium"
+      },
+      {
+        "time": "02:30-04:00",
+        "topic": "Lecture -17\nVenue: KK Auditorium"
+      }
+    ],
+    "Day 8": [
+      {
+        "time": "10:00-11:30",
+        "topic": "Lecture -18\nVenue: KK Auditorium"
+      },
+      {
+        "time": "12:00-01:30",
+        "topic": "Lecture -8\nVenue: KS Auditorium"
+      },
+      {
+        "time": "02:30-04:00",
+        "topic": "Lab Visit/Session to Plan\nVenue:"
+      }
+    ],
+    "Day 9": [
+      {
+        "time": "10:00-11:30",
+        "topic": "Lecture -20\nVenue: KK Auditorium"
+      },
+      {
+        "time": "12:00-01:30",
+        "topic": "NSS/NCC/YRC\nVenue: B Halls"
+      },
+      {
+        "time": "02:30-04:00",
+        "topic": "Lab Visit/Session to Plan\nVenue:"
+      }
+    ],
+    "Day 10": [
+      {
+        "time": "10:00-11:30",
+        "topic": "Lab Visit/Session to Plan\nVenue:"
+      },
+      {
+        "time": "12:00-01:30",
+        "topic": "Lab Visit/Session to Plan\nVenue:"
+      },
+      {
+        "time": "02:30-04:00",
+        "topic": "Workshop\nVenue: Multipurpose Hall"
+      }
+    ],
+    "Day 11": [
+      {
+        "time": "10:00-11:30",
+        "topic": "HoD Address to Students\n(Department Activity)"
+      },
+      {
+        "time": "12:00-01:30",
+        "topic": "Tutor Ward System\n(Department Activity)"
+      },
+      {
+        "time": "02:30-04:00",
+        "topic": "UMIS Registration\n(Department Activity)"
+      }
+    ],
+    "Day 12": [
+      {
+        "time": "10:00-11:30",
+        "topic": "Lab Visit/Session to Plan\nVenue:"
+      },
+      {
+        "time": "12:00-01:30",
+        "topic": "CAMU Registration\n(Department Activity)"
+      },
+      {
+        "time": "02:30-04:00",
+        "topic": "Lab Visit/Session to Plan\nVenue:"
+      }
+    ],
+    "Day 13": [
+      {
+        "time": "10:00-11:30",
+        "topic": "Lab Visit/Session to Plan\nVenue:"
+      },
+      {
+        "time": "12:00-01:30",
+        "topic": "Lab Visit/Session to Plan\nVenue:"
+      },
+      {
+        "time": "02:30-04:00",
+        "topic": "Lab Visit/Session to Plan\nVenue:"
+      }
+    ],
+    "Day 14": [
+      {
+        "time": "10:00-11:30",
+        "topic": "Lab Visit/Session to Plan\nVenue:"
+      },
+      {
+        "time": "12:00-01:30",
+        "topic": "Lab Visit/Session to Plan\nVenue:"
+      },
+      {
+        "time": "02:30-04:00",
+        "topic": "Lab Visit/Session to Plan\nVenue:"
+      }
+    ],
+    "Day 15": [
+      {
+        "time": "10:00-11:30",
+        "topic": "Lab Visit/Session to Plan\nVenue:"
+      },
+      {
+        "time": "12:00-01:30",
+        "topic": "Lab Visit/Session to Plan\nVenue:"
+      },
+      {
+        "time": "02:30-04:00",
+        "topic": "Feedback\nVenue: KK Auditorium"
+      }
+    ]
+  }
+,
+"CIVIL": {
+    "Day 1": [
+      {
+        "time": "10:00-11:30",
+        "topic": "Campus Tour"
+      },
+      {
+        "time": "12:00-01:30",
+        "topic": "Institutional Leadership Talks\nPrincipal/Registrar/COE/Deans\nVenue: KK Auditorium"
+      },
+      {
+        "time": "02:30-04:00",
+        "topic": "Institutional Leadership Talks\nPrincipal/Registrar/COE/Deans\nVenue: KK Auditorium"
+      }
+    ],
+    "Day 2": [
+      {
+        "time": "10:00-11:30",
+        "topic": "Lab Visit/Session to Plan\nVenue:"
+      },
+      {
+        "time": "12:00-01:30",
+        "topic": "Lecture -1\nVenue: KK Auditorium"
+      },
+      {
+        "time": "02:30-04:00",
+        "topic": "Lecture -5\nVenue: KK Auditorium"
+      }
+    ],
+    "Day 3": [
+      {
+        "time": "10:00-11:30",
+        "topic": "Lecture -2\nVenue: KS Auditorium"
+      },
+      {
+        "time": "12:00-01:30",
+        "topic": "Lecture -3\nVenue: KK Auditorium"
+      },
+      {
+        "time": "02:30-04:00",
+        "topic": "Lab Visit/Session to Plan\nVenue:"
+      }
+    ],
+    "Day 4": [
+      {
+        "time": "10:00-11:30",
+        "topic": "Lab Visit/Session to Plan\nVenue:"
+      },
+      {
+        "time": "12:00-01:30",
+        "topic": "Lecture -7\nVenue: KK Auditorium"
+      },
+      {
+        "time": "02:30-04:00",
+        "topic": "Lecture -6\nVenue: KS Auditorium"
+      }
+    ],
+    "Day 5": [
+      {
+        "time": "10:00-11:30",
+        "topic": "Lecture -9\nVenue: KK Auditorium"
+      },
+      {
+        "time": "12:00-01:30",
+        "topic": "Lecture -4\nVenue: KS Auditorium"
+      },
+      {
+        "time": "02:30-04:00",
+        "topic": "Lecture -11\nVenue: KK Auditorium"
+      }
+    ],
+    "Day 6": [
+      {
+        "time": "10:00-11:30",
+        "topic": "Keeladi – Local Visit"
+      },
+      {
+        "time": "12:00-01:30",
+        "topic": "Keeladi – Local Visit"
+      },
+      {
+        "time": "02:30-04:00",
+        "topic": "Keeladi – Local Visit"
+      }
+    ],
+    "Day 7": [
+      {
+        "time": "10:00-11:30",
+        "topic": "Lecture -13\nVenue: KK Auditorium"
+      },
+      {
+        "time": "12:00-01:30",
+        "topic": "Lecture -15\nVenue: KK Auditorium"
+      },
+      {
+        "time": "02:30-04:00",
+        "topic": "Lecture -17\nVenue: KK Auditorium"
+      }
+    ],
+    "Day 8": [
+      {
+        "time": "10:00-11:30",
+        "topic": "Lecture -18\nVenue: KK Auditorium"
+      },
+      {
+        "time": "12:00-01:30",
+        "topic": "Workshop\nVenue: Multipurpose Hall"
+      },
+      {
+        "time": "02:30-04:00",
+        "topic": "Lecture -8\nVenue: KS Auditorium"
+      }
+    ],
+    "Day 9": [
+      {
+        "time": "10:00-11:30",
+        "topic": "Lab Visit/Session to Plan\nVenue:"
+      },
+      {
+        "time": "12:00-01:30",
+        "topic": "Lab Visit/Session to Plan\nVenue:"
+      },
+      {
+        "time": "02:30-04:00",
+        "topic": "Lab Visit/Session to Plan\nVenue:"
+      }
+    ],
+    "Day 10": [
+      {
+        "time": "10:00-11:30",
+        "topic": "Lecture -20\nVenue: KK Auditorium"
+      },
+      {
+        "time": "12:00-01:30",
+        "topic": "Sports\nVenue: Ground"
+      },
+      {
+        "time": "02:30-04:00",
+        "topic": "NSS/NCC/YRC\nVenue: B Halls"
+      }
+    ],
+    "Day 11": [
+      {
+        "time": "10:00-11:30",
+        "topic": "HoD Address to Students\n(Department Activity)"
+      },
+      {
+        "time": "12:00-01:30",
+        "topic": "Tutor Ward System\n(Department Activity)"
+      },
+      {
+        "time": "02:30-04:00",
+        "topic": "Lab Visit/Session to Plan\nVenue:"
+      }
+    ],
+    "Day 12": [
+      {
+        "time": "10:00-11:30",
+        "topic": "UMIS Registration\n(Department Activity)"
+      },
+      {
+        "time": "12:00-01:30",
+        "topic": "Lab Visit/Session to Plan\nVenue:"
+      },
+      {
+        "time": "02:30-04:00",
+        "topic": "CAMU Registration\n(Department Activity)"
+      }
+    ],
+    "Day 13": [
+      {
+        "time": "10:00-11:30",
+        "topic": "Lab Visit/Session to Plan\nVenue:"
+      },
+      {
+        "time": "12:00-01:30",
+        "topic": "Lab Visit/Session to Plan\nVenue:"
+      },
+      {
+        "time": "02:30-04:00",
+        "topic": "Lab Visit/Session to Plan\nVenue:"
+      }
+    ],
+    "Day 14": [
+      {
+        "time": "10:00-11:30",
+        "topic": "Lab Visit/Session to Plan\nVenue:"
+      },
+      {
+        "time": "12:00-01:30",
+        "topic": "Lab Visit/Session to Plan\nVenue:"
+      },
+      {
+        "time": "02:30-04:00",
+        "topic": "Lab Visit/Session to Plan\nVenue:"
+      }
+    ],
+    "Day 15": [
+      {
+        "time": "10:00-11:30",
+        "topic": "Lab Visit/Session to Plan\nVenue:"
+      },
+      {
+        "time": "12:00-01:30",
+        "topic": "Lab Visit/Session to Plan\nVenue:"
+      },
+      {
+        "time": "02:30-04:00",
+        "topic": "Feedback\nVenue: KK Auditorium"
+      }
+    ]
+  }
+  ,
+  "MECH": {
+    "Day 1": [
+      {
+        "time": "10:00-11:30",
+        "topic": "Campus Tour"
+      },
+      {
+        "time": "12:00-01:30",
+        "topic": "Institutional Leadership Talks\nPrincipal/Registrar/COE/Deans\nVenue: KK Auditorium"
+      },
+      {
+        "time": "02:30-04:00",
+        "topic": "Institutional Leadership Talks\nPrincipal/Registrar/COE/Deans\nVenue: KK Auditorium"
+      }
+    ],
+    "Day 2": [
+      {
+        "time": "10:00-11:30",
+        "topic": "Lab Visit/Session to Plan\nVenue:"
+      },
+      {
+        "time": "12:00-01:30",
+        "topic": "Lecture -1\nVenue: KK Auditorium"
+      },
+      {
+        "time": "02:30-04:00",
+        "topic": "Lecture -5\nVenue: KK Auditorium"
+      }
+    ],
+    "Day 3": [
+      {
+        "time": "10:00-11:30",
+        "topic": "Lecture -2\nVenue: KS Auditorium"
+      },
+      {
+        "time": "12:00-01:30",
+        "topic": "Lecture -3\nVenue: KK Auditorium"
+      },
+      {
+        "time": "02:30-04:00",
+        "topic": "Lab Visit/Session to Plan\nVenue:"
+      }
+    ],
+    "Day 4": [
+      {
+        "time": "10:00-11:30",
+        "topic": "Lab Visit/Session to Plan\nVenue:"
+      },
+      {
+        "time": "12:00-01:30",
+        "topic": "Lecture -7\nVenue: KK Auditorium"
+      },
+      {
+        "time": "02:30-04:00",
+        "topic": "Lecture -6\nVenue: KS Auditorium"
+      }
+    ],
+    "Day 5": [
+      {
+        "time": "10:00-11:30",
+        "topic": "Lecture -9\nVenue: KK Auditorium"
+      },
+      {
+        "time": "12:00-01:30",
+        "topic": "Lecture -4\nVenue: KS Auditorium"
+      },
+      {
+        "time": "02:30-04:00",
+        "topic": "Lecture -11\nVenue: KK Auditorium"
+      }
+    ],
+    "Day 6": [
+      {
+        "time": "10:00-11:30",
+        "topic": "Keeladi – Local Visit"
+      },
+      {
+        "time": "12:00-01:30",
+        "topic": "Keeladi – Local Visit"
+      },
+      {
+        "time": "02:30-04:00",
+        "topic": "Keeladi – Local Visit"
+      }
+    ],
+    "Day 7": [
+      {
+        "time": "10:00-11:30",
+        "topic": "Lecture -13\nVenue: KK Auditorium"
+      },
+      {
+        "time": "12:00-01:30",
+        "topic": "Lecture -15\nVenue: KK Auditorium"
+      },
+      {
+        "time": "02:30-04:00",
+        "topic": "Lecture -17\nVenue: KK Auditorium"
+      }
+    ],
+    "Day 8": [
+      {
+        "time": "10:00-11:30",
+        "topic": "Lecture -18\nVenue: KK Auditorium"
+      },
+      {
+        "time": "12:00-01:30",
+        "topic": "Workshop\nVenue: Multipurpose Hall"
+      },
+      {
+        "time": "02:30-04:00",
+        "topic": "Lecture -8\nVenue: KS Auditorium"
+      }
+    ],
+    "Day 9": [
+      {
+        "time": "10:00-11:30",
+        "topic": "Lab Visit/Session to Plan\nVenue:"
+      },
+      {
+        "time": "12:00-01:30",
+        "topic": "Lab Visit/Session to Plan\nVenue:"
+      },
+      {
+        "time": "02:30-04:00",
+        "topic": "Lab Visit/Session to Plan\nVenue:"
+      }
+    ],
+    "Day 10": [
+      {
+        "time": "10:00-11:30",
+        "topic": "Lecture -20\nVenue: KK Auditorium"
+      },
+      {
+        "time": "12:00-01:30",
+        "topic": "Sports\nVenue: Ground"
+      },
+      {
+        "time": "02:30-04:00",
+        "topic": "NSS/NCC/YRC\nVenue: B Halls"
+      }
+    ],
+    "Day 11": [
+      {
+        "time": "10:00-11:30",
+        "topic": "HoD Address to Students\n(Department Activity)"
+      },
+      {
+        "time": "12:00-01:30",
+        "topic": "Tutor Ward System\n(Department Activity)"
+      },
+      {
+        "time": "02:30-04:00",
+        "topic": "Lab Visit/Session to Plan\nVenue:"
+      }
+    ],
+    "Day 12": [
+      {
+        "time": "10:00-11:30",
+        "topic": "UMIS Registration\n(Department Activity)"
+      },
+      {
+        "time": "12:00-01:30",
+        "topic": "Lab Visit/Session to Plan\nVenue:"
+      },
+      {
+        "time": "02:30-04:00",
+        "topic": "CAMU Registration\n(Department Activity)"
+      }
+    ],
+    "Day 13": [
+      {
+        "time": "10:00-11:30",
+        "topic": "Lab Visit/Session to Plan\nVenue:"
+      },
+      {
+        "time": "12:00-01:30",
+        "topic": "Lab Visit/Session to Plan\nVenue:"
+      },
+      {
+        "time": "02:30-04:00",
+        "topic": "Lab Visit/Session to Plan\nVenue:"
+      }
+    ],
+    "Day 14": [
+      {
+        "time": "10:00-11:30",
+        "topic": "Lab Visit/Session to Plan\nVenue:"
+      },
+      {
+        "time": "12:00-01:30",
+        "topic": "Lab Visit/Session to Plan\nVenue:"
+      },
+      {
+        "time": "02:30-04:00",
+        "topic": "Lab Visit/Session to Plan\nVenue:"
+      }
+    ],
+    "Day 15": [
+      {
+        "time": "10:00-11:30",
+        "topic": "Lab Visit/Session to Plan\nVenue:"
+      },
+      {
+        "time": "12:00-01:30",
+        "topic": "Lab Visit/Session to Plan\nVenue:"
+      },
+      {
+        "time": "02:30-04:00",
+        "topic": "Feedback\nVenue: KK Auditorium"
+      }
+    ]
+  }
+}
